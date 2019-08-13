@@ -1,0 +1,3 @@
+# 文件名是接口的全类名，里面属性是实现类的全类名，多个实现用换行符分割
+link.xuchen.service.impl.ChineseHelloImpl
+link.xuchen.service.impl.EnglishHelloImpl
